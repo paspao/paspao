@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-pasqualepaola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pasqualepaola/)](https://www.linkedin.com/in/pasqualepaola/)
+[![Gmail Badge](https://img.shields.io/badge/-pasquale.paola@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pasquale.paola@gmail.com)](mailto:pasquale.paola@gmail.com)
+
+
 <!--
 **paspao/paspao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
